@@ -1,4 +1,7 @@
-# Arma 3 Exile Virtual Garage
-This is the virtual garage for anyone who wants to use it standalone without adding other scripts.
-# All files are inside the Virtual_Garage folder
-Make sure that you read on how to install correctly
+# Installation Instructions
+
+All the files in this download are placed into the folder where they should be, 
+so this will make it easy for you to just copy/paste.
+
+If you make changes to the destination of the folders, make sure you call them
+correctly or you will end up with lots of issues.
