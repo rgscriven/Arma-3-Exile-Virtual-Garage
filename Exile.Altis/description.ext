@@ -1,0 +1,6 @@
+//////////////////////                                                                        
+//Virtual Garage                                                                              
+//////////////////////                                                                        
+
+#include "Addons\VirtualGarage\Dialog\VirtualGarage_Client_Defines.hpp"                       // Virtual Garage
+#include "Addons\VirtualGarage\Dialog\VirtualGarage_Client_Dialog.hpp"                        // Virtual Garage
