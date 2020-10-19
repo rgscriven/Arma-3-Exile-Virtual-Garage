@@ -1,3 +1,5 @@
+Before you start, all credits go to Shix07 for making this script.
+
 # Installation Instructions
 
 All the files in this download are placed into the folder where they should be, 
